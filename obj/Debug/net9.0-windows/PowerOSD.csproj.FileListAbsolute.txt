@@ -1,0 +1,9 @@
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\MainWindow.baml
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\App.g.cs
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\PowerOSD_MarkupCompile.cache
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\PowerOSD.g.resources
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\PowerOSD.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\PowerOSD.AssemblyInfoInputs.cache
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\PowerOSD.AssemblyInfo.cs
+D:\study\projects\PowerOSD\obj\Debug\net9.0-windows\PowerOSD.csproj.CoreCompileInputs.cache
